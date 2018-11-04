@@ -3,7 +3,7 @@
 Introduction to Python: Absolute Beginner - Fundamentals : Build on your basic Python skills and dig into data structure basics.
 
 
-**Absolute Beginner
+**Absolute Beginner**
 
 About this course 
 This course is part of the Microsoft Professional Program.
