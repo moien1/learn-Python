@@ -1,4 +1,4 @@
-# learn-Python
+# Learn-Python
 
 Introduction to Python: Absolute Beginner - Fundamentals : Build on your basic Python skills and dig into data structure basics.
 
